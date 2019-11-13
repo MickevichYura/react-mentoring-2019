@@ -1,0 +1,14 @@
+{
+  "name": "react-mentoring-2019",
+  "version": "1.0.0",
+  "description": "ReactJS Global Mentoring Program Q42019 [Ideveloper]",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
